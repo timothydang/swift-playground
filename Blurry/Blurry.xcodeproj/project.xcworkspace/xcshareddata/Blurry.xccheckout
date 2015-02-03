@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>18C5AD00-8E35-4CC6-89E0-ADBB7559DBB7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Blurry</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFB0258416299B307C4B2E8096FAA2E7D14AC667</key>
+		<string>https://github.com/timothydang/swift-playground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Blurry/Blurry.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFB0258416299B307C4B2E8096FAA2E7D14AC667</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/timothydang/swift-playground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFB0258416299B307C4B2E8096FAA2E7D14AC667</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFB0258416299B307C4B2E8096FAA2E7D14AC667</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift-playground</string>
+		</dict>
+	</array>
+</dict>
+</plist>

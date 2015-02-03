@@ -3,24 +3,16 @@
     {
       "idiom" : "universal",
       "scale" : "1x",
-      "filename" : "hooroo-logo.png"
+      "filename" : "icon.png"
     },
     {
       "idiom" : "universal",
       "scale" : "2x",
-      "filename" : "hooroo-logo-1.png"
+      "filename" : "icon@2x.png"
     },
     {
       "idiom" : "universal",
       "scale" : "3x"
-    },
-    {
-      "idiom" : "mac",
-      "scale" : "1x"
-    },
-    {
-      "idiom" : "mac",
-      "scale" : "2x"
     }
   ],
   "info" : {
